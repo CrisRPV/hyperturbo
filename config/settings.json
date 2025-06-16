@@ -1,0 +1,10 @@
+{
+    "system": "Formula RPV HyperTurbo Control System",
+    "version": "1.0.0",
+    "autosave": true,
+    "failsafe": {
+        "enabled": true,
+        "throttle": 0,
+        "brake": 100
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "mapping": {
+        "device": "SpaceMouse",
+        "assignments": {
+            "X": "CH1",
+            "Y": "CH2",
+            "Z": "CH3"
+        }
+    }
+}

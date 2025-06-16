@@ -1,0 +1,22 @@
+{
+    "channels": {
+        "CH1": {
+            "name": "Sterzo",
+            "min": -100,
+            "max": 100,
+            "default": 0
+        },
+        "CH2": {
+            "name": "Acceleratore",
+            "min": 0,
+            "max": 100,
+            "default": 0
+        },
+        "CH3": {
+            "name": "Freno",
+            "min": 0,
+            "max": 100,
+            "default": 0
+        }
+    }
+}
